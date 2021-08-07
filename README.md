@@ -1,4 +1,4 @@
-#Upute za korištenje
+Upute za korištenje
 
 1. Promijeniti connection string
 	UserManagment.Api => appsettings.json =>   "ConnectionStrings": {"DBConnection": "" },
